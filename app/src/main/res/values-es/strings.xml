@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="decrement">Usted no puede entrar con menos que 1 cafe</string>
+</resources>
